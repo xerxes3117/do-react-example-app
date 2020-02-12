@@ -5,7 +5,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1>Digital ocean droplet example1</h1>
+      <h1>Digital ocean droplet example3</h1>
     </div>
   );
 }
